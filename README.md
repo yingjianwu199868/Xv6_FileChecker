@@ -25,5 +25,6 @@ I have not written failure-case testing due to time constraint. On the other han
 #### gcc main.c -o main, execute      #Compile the code
 #### Comment:(if you copy fs.img under the same directory as the executable file main)
 #### ./main fs.img 		            #Execute 
-#### After your execution, you should expect to have the following result
 
+## After your execution, you should expect to have the following result
+![](https://github.com/yingjianwu199868/Xv6_FileChecker/blob/master/Screen%20Shot%202019-12-21%20at%203.22.08%20PM.png)
